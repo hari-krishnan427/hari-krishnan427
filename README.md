@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hari Krishnan! 🚀
 
-<!--
-**hari-krishnan427/hari-krishnan427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack & Cybersecurity Developer passionate about building AI-powered web security applications, e-commerce automation tools, and real-time network defense systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Live Applications
+
+| Project | Tech Stack | Live Demo | Repository |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **Cyber-Guard** | Python (Flask), Scikit-Learn, Chrome Ext | [Live App 🚀](https://cyber-guard-pi.vercel.app) | [Repo 🔗](https://github.com/hari-krishnan427/Cyber-Guard) |
+| 📡 **Nighthawk IDS** | Python (Flask), Scapy, Network Security | [Live Dashboard 🚀](https://real-world-intrusion-detection.vercel.app) | [Repo 🔗](https://github.com/hari-krishnan427/Real-world-Intrusion-Detection) |
+| 🛒 **Flipkart Support Bot** | JavaScript, HTML5/CSS3, E-commerce | [Live Demo 🚀](https://hari-krishnan427.github.io/customer-supportbot/) | [Repo 🔗](https://github.com/hari-krishnan427/customer-supportbot) |
+| ⚖️ **Smart Legal Portal** | TypeScript, React / Web | Live Portal 🚀 | [Repo 🔗](https://github.com/hari-krishnan427/smart-legal-assistant-portal) |
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, JavaScript, TypeScript, HTML5, CSS3, SQL
+- **Frameworks:** Flask, Node.js, React
+- **Cybersecurity & Networking:** Network Packet Inspection (Scapy), Phishing Classification, Threat Intelligence, Firewall Automation
+- **Deployment & Cloud:** Vercel, GitHub Pages, Render, Git / GitHub API
