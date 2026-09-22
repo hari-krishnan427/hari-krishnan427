@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 
-```javascript
+javascript
 const hariKrishnan = {
     code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
     domains: ["Cybersecurity", "Intrusion Detection", "AI Chatbots (Ollama)"],
